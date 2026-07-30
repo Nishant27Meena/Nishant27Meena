@@ -1,71 +1,79 @@
 # Nishant Meena
 
-### AI Engineer | LLM Evaluation, Agentic Systems & Production ML
+### Senior AI Engineer | LLM Systems, Evaluation & Production ML
 
-I build reliable AI systems at the intersection of model evaluation, software
-engineering, and automation. My work focuses on turning ambiguous problems into
-reproducible benchmarks, measurable quality signals, and maintainable production
-systems.
+I design and build reliable AI systems from problem definition through
+production delivery. My focus is the engineering behind dependable
+intelligence: evaluation strategy, agent architecture, data and model
+pipelines, failure recovery, and observable services.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Nishant27Meena-202124?style=flat-square&logo=github&logoColor=white)](https://github.com/Nishant27Meena)
+I work across research and engineering boundaries, translating ambiguous
+requirements into explicit system contracts, measurable quality signals, and
+maintainable implementations.
 
-## Engineering Focus
+## Core Expertise
 
-- **LLM evaluation and benchmarking** - deterministic task design, adversarial
-  test cases, rubric development, and automated quality gates
-- **Agentic AI systems** - tool-using workflows, structured outputs, failure
-  recovery, and repeatable execution
-- **Production ML** - data validation, offline inference, model calibration,
-  experiment design, and reproducible pipelines
-- **Backend and platform engineering** - typed services, APIs, containers,
-  CI-ready tests, and security-conscious automation
+- **LLM and agent systems** - tool orchestration, structured outputs, context
+  management, workflow design, guardrails, and recovery from partial failures
+- **Evaluation infrastructure** - executable benchmarks, adversarial test cases,
+  rubric design, regression suites, and automated quality gates
+- **Production ML** - data validation, experiment design, offline inference,
+  calibration, reproducibility, and model-performance analysis
+- **AI platform engineering** - typed APIs, containers, CI/CD, observability,
+  security review, and reliable backend services
 
-## Selected Work
+## Engineering Leadership
+
+- Define technical direction by connecting product requirements to measurable
+  system behavior and clear acceptance criteria
+- Design for operational reality: latency, cost, determinism, data quality,
+  failure modes, and maintainability
+- Establish evaluation before optimization so model and system improvements can
+  be measured rather than assumed
+- Raise delivery quality through focused reviews, automated tests, explicit
+  interfaces, and reproducible development environments
+
+## Selected Engineering Work
 
 ### AI Systems Evaluation
 
-Designing executable benchmarks for coding agents across data processing,
-optimization, debugging, security, and systems engineering. Each benchmark is
-built as a testable environment with explicit contracts, hidden edge cases, and
-deterministic verification.
+Designing executable benchmarks for autonomous coding systems across data
+processing, optimization, debugging, security, and systems engineering. Each
+benchmark includes a constrained environment, explicit contracts, hidden edge
+cases, and deterministic verification.
+
+### Reliable Agent and Automation Workflows
+
+Building offline-capable tools, structured agent workflows, and constrained
+planners in Python, Go, Rust, and Scala. The work emphasizes validation-heavy
+pipelines, repeatable execution, integrity checks, and graceful handling of
+invalid inputs.
 
 ### [California Housing Regression Baseline](https://github.com/Nishant27Meena/california-housing-regression)
 
-An end-to-end regression experiment with data validation, deterministic
-splitting, model evaluation, and diagnostic visualizations. The project
-establishes an honest baseline and documents its limitations and next
-experiments.
+A reproducible ML baseline with data validation, deterministic splitting,
+quantitative evaluation, diagnostic artifacts, and clearly documented
+limitations. It demonstrates the standard I apply even to small experiments:
+repeatable execution and honest measurement.
 
-### Reliable Automation
+## Technical Stack
 
-Developing offline-capable tools and constrained planners in Python, Go, Rust,
-and Scala. Current work includes validation-heavy data pipelines, scheduling and
-resource allocation, archive integrity, and API reliability.
-
-## Technical Toolkit
-
-| Area | Technologies |
+| Domain | Technologies and Practices |
 | --- | --- |
-| AI / ML | LLM evaluation, agentic workflows, scikit-learn, model testing, prompt design |
+| AI Engineering | LLM evaluation, agentic workflows, tool use, structured outputs, prompt design |
+| Machine Learning | scikit-learn, pandas, NumPy, model testing, experiment analysis |
 | Languages | Python, Go, Rust, Scala, SQL |
-| Systems | Linux, Docker, REST APIs, Git, CI/CD |
-| Data | pandas, NumPy, CSV/JSON pipelines, validation, experiment analysis |
-| Quality | pytest, integration testing, deterministic fixtures, security review |
+| Platform | Linux, Docker, REST APIs, Git, CI/CD |
+| Reliability | pytest, integration testing, deterministic fixtures, validation, security review |
 
-## How I Work
+## Current Focus
 
-I favor measurable outcomes over demos: explicit interfaces, strong baselines,
-failure-mode analysis, and tests that reflect real operating constraints. I am
-especially interested in evaluation infrastructure, AI reliability, and the
-engineering required to move intelligent systems from prototype to production.
-
-## Current Direction
-
-- Building stronger evaluation harnesses for autonomous coding systems
-- Exploring robust tool use, structured reasoning, and agent reliability
-- Developing production-grade AI and data systems with reproducible behavior
+- Evaluation systems for autonomous coding and tool-using agents
+- Reliable orchestration, structured reasoning, and failure recovery
+- Production AI systems with measurable quality, cost, and operational behavior
+- Developer infrastructure that makes AI experiments reproducible
 
 ---
 
-Open to collaborating on AI evaluation, agent infrastructure, applied ML, and
-developer tooling.
+Open to senior AI engineering opportunities and collaboration on LLM
+evaluation, agent infrastructure, production ML, and developer tooling.
