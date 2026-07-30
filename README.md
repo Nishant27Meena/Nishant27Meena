@@ -29,11 +29,12 @@ optimization, debugging, security, and systems engineering. Each benchmark is
 built as a testable environment with explicit contracts, hidden edge cases, and
 deterministic verification.
 
-### Applied ML Experiments
+### [California Housing Regression Baseline](https://github.com/Nishant27Meena/california-housing-regression)
 
-Building end-to-end classification experiments with preprocessing, model
-comparison, cross-validation, and metric-driven selection. The emphasis is on
-clear baselines and results that can be reproduced.
+An end-to-end regression experiment with data validation, deterministic
+splitting, model evaluation, and diagnostic visualizations. The project
+establishes an honest baseline and documents its limitations and next
+experiments.
 
 ### Reliable Automation
 
