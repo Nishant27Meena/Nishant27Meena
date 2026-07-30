@@ -1,79 +1,97 @@
-# Nishant Meena
+<h1 align="center">Nishant Meena</h1>
 
-### Senior AI Engineer | LLM Systems, Evaluation & Production ML
+<h3 align="center">Senior AI Engineer · LLM Systems · Agentic Workflows · Production ML</h3>
 
-I design and build reliable AI systems from problem definition through
-production delivery. My focus is the engineering behind dependable
-intelligence: evaluation strategy, agent architecture, data and model
-pipelines, failure recovery, and observable services.
+<p align="center">
+  Building AI systems that are measurable, reliable, and ready for production.
+</p>
 
-I work across research and engineering boundaries, translating ambiguous
-requirements into explicit system contracts, measurable quality signals, and
-maintainable implementations.
+<p align="center">
+  <a href="https://github.com/Nishant27Meena">
+    <img src="https://img.shields.io/badge/GitHub-Nishant27Meena-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
+  </a>
+  <a href="https://github.com/Nishant27Meena?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-Projects-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects">
+  </a>
+</p>
 
-## Core Expertise
+## About Me
 
-- **LLM and agent systems** - tool orchestration, structured outputs, context
-  management, workflow design, guardrails, and recovery from partial failures
-- **Evaluation infrastructure** - executable benchmarks, adversarial test cases,
-  rubric design, regression suites, and automated quality gates
-- **Production ML** - data validation, experiment design, offline inference,
-  calibration, reproducibility, and model-performance analysis
-- **AI platform engineering** - typed APIs, containers, CI/CD, observability,
-  security review, and reliable backend services
+I design and deliver AI systems across the full engineering lifecycle: problem
+definition, architecture, data and model pipelines, evaluation, deployment, and
+operational reliability.
 
-## Engineering Leadership
+- Architecting tool-using agents and structured LLM workflows
+- Building executable benchmarks, regression suites, and quality gates
+- Developing reproducible ML pipelines and observable backend services
+- Engineering reliable automation in Python, Go, Rust, and Scala
+- Turning ambiguous product goals into measurable system behavior
 
-- Define technical direction by connecting product requirements to measurable
-  system behavior and clear acceptance criteria
-- Design for operational reality: latency, cost, determinism, data quality,
-  failure modes, and maintainability
-- Establish evaluation before optimization so model and system improvements can
-  be measured rather than assumed
-- Raise delivery quality through focused reviews, automated tests, explicit
-  interfaces, and reproducible development environments
+## What I Build
 
-## Selected Engineering Work
+| Focus | Engineering work |
+| --- | --- |
+| **LLM systems** | Agent orchestration, tool use, structured outputs, context management, and guardrails |
+| **AI evaluation** | Benchmark design, adversarial cases, scoring rubrics, regression testing, and quality analysis |
+| **Production ML** | Data validation, experiment design, offline inference, calibration, and model monitoring |
+| **AI platforms** | APIs, containers, CI/CD, observability, security review, and failure recovery |
 
-### AI Systems Evaluation
+## Technology Stack
 
-Designing executable benchmarks for autonomous coding systems across data
-processing, optimization, debugging, security, and systems engineering. Each
-benchmark includes a constrained environment, explicit contracts, hidden edge
-cases, and deterministic verification.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" alt="Scala">
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+</p>
 
-### Reliable Agent and Automation Workflows
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest">
+</p>
 
-Building offline-capable tools, structured agent workflows, and constrained
-planners in Python, Go, Rust, and Scala. The work emphasizes validation-heavy
-pipelines, repeatable execution, integrity checks, and graceful handling of
-invalid inputs.
+## Featured Work
 
 ### [California Housing Regression Baseline](https://github.com/Nishant27Meena/california-housing-regression)
 
-A reproducible ML baseline with data validation, deterministic splitting,
-quantitative evaluation, diagnostic artifacts, and clearly documented
-limitations. It demonstrates the standard I apply even to small experiments:
-repeatable execution and honest measurement.
+A reproducible machine-learning baseline with deterministic data splitting,
+quantitative evaluation, diagnostic artifacts, and documented limitations.
 
-## Technical Stack
+<p align="center">
+  <a href="https://github.com/Nishant27Meena/california-housing-regression">
+    <img src="https://img.shields.io/badge/View_Project-California_Housing_Regression-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="View California Housing Regression">
+  </a>
+</p>
 
-| Domain | Technologies and Practices |
-| --- | --- |
-| AI Engineering | LLM evaluation, agentic workflows, tool use, structured outputs, prompt design |
-| Machine Learning | scikit-learn, pandas, NumPy, model testing, experiment analysis |
-| Languages | Python, Go, Rust, Scala, SQL |
-| Platform | Linux, Docker, REST APIs, Git, CI/CD |
-| Reliability | pytest, integration testing, deterministic fixtures, validation, security review |
+## Engineering Principles
 
-## Current Focus
+```text
+Measure before optimizing.
+Design for failure, not only the happy path.
+Make experiments reproducible.
+Treat evaluation as production infrastructure.
+Prefer explicit contracts over hidden assumptions.
+```
 
-- Evaluation systems for autonomous coding and tool-using agents
-- Reliable orchestration, structured reasoning, and failure recovery
-- Production AI systems with measurable quality, cost, and operational behavior
-- Developer infrastructure that makes AI experiments reproducible
+## GitHub Activity
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nishant27Meena&theme=transparent" alt="Nishant's GitHub statistics">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nishant27Meena&theme=transparent" alt="Repositories by language">
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishant27Meena&theme=transparent" alt="Nishant's GitHub contribution summary">
+</p>
 
 ---
 
-Open to senior AI engineering opportunities and collaboration on LLM
-evaluation, agent infrastructure, production ML, and developer tooling.
+<p align="center">
+  Open to senior AI engineering opportunities and collaboration on LLM
+  evaluation, agent infrastructure, production ML, and developer tooling.
+</p>
